@@ -1,17 +1,47 @@
-[README.md](https://github.com/user-attachments/files/32835058/README.md)
-<img width="1200" height="400" alt="banner-animated" src="https://github.com/user-attachments/assets/73062340-d4e1-4bc1-844c-f8c2acc83a9d" />
-<img width="2172" height="724" alt="banner-v4" src="https://github.com/user-attachments/assets/4d879ab4-842c-46a4-8cd4-a5cee89bcb7c" />
-<img width="850" height="115" alt="footer-v3" src="https://github.com/user-attachments/assets/5580fe78-d7db-4bc5-8053-61a021b85b6b" />
-<img width="340" height="88" alt="email" src="https://github.com/user-attachments/assets/ae55f758-8b9e-434c-b372-a2267150f5e8" />
-<img width="340" height="88" alt="linkedin" src="https://github.com/user-attachments/assets/7a15c57f-3ce8-4b3f-a60b-440b773bb878" />
-<img width="850" height="100" alt="connect" src="https://github.com/user-attachments/assets/585d7733-c9cb-4661-b47f-5e9fc0d27cd4" />
-<img width="850" height="85" alt="offline-strip" src="https://github.com/user-attachments/assets/475213e3-7f20-4f5c-b4af-9026501be111" />
-<img width="850" height="100" alt="off-screen" src="https://github.com/user-attachments/assets/ec88f9dd-00d1-4d0f-b2a1-5994e4c3a0d0" />
-<img width="850" height="90" alt="data-badges" src="https://github.com/user-attachments/assets/bb703baa-3057-4962-8a47-d0c034053c41" />
-<img width="850" height="100" alt="toolkit" src="https://github.com/user-attachments/assets/8b62a343-16c0-4693-ac9e-8f3ca40f1e1e" />
-<img width="850" height="345" alt="rec-card" src="https://github.com/user-attachments/assets/41a9d8a3-aa1b-49b2-ad1c-aca11c0ead53" />
-<img width="850" height="100" alt="featured" src="https://github.com/user-attachments/assets/098b0e7d-018b-424a-8558-3fe298919f6f" />
-<img width="850" height="100" alt="focus" src="https://github.com/user-attachments/assets/f4396b32-fa5b-4d3c-9f38-f48b6dc841d6" />
-<img width="850" height="100" alt="identity" src="https://github.com/user-attachments/assets/2b02d652-dda3-4096-ab5c-c98db580058e" />
-<img width="850" height="90" alt="wired" src="https://github.com/user-attachments/assets/9c059cc6-1ddc-4f53-b3ad-6f3c57929e68" />
+<p><img src="profile-cover-animated.gif" width="100%" alt="Maria Heloysa, illustrated with a cat and strawberry headphones. Animated cat divider." /></p>
 
+<p><img src="profile-identity.png" width="100%" alt="Language with human judgment. Portuguese: native. English: professional use." /></p>
+
+<p><img src="profile-about.png" width="100%" alt="Context" /></p>
+
+<p><img src="profile-about-copy.png" width="100%" alt="Maria Heloysa is an English Language Teaching student at UFPB. Practical work with Portuguese language quality, LLM evaluation and local models with Ollama. Learning Python through REC." /></p>
+
+<p><img src="profile-work.png" width="100%" alt="Selected work" /></p>
+
+<p><a href="https://github.com/lainbacground/rec"><img src="profile-rec-feature.gif" width="100%" alt="REC: LLM response evaluation and audit. Python portfolio using synthetic data. Checks records, measures human–AI disagreement and prioritizes review. PASS: no trigger; REVIEW: uncertainty, severity or disagreement; FAIL: critical issue or confirmed safety/privacy failure. Outputs: CSV, review queues, Markdown audits and charts." /></a></p>
+
+[Explore REC ↗](https://github.com/lainbacground/rec)
+
+<p><img src="profile-tools.png" width="100%" alt="Working tools" /></p>
+
+<p><img src="profile-tool-copy.png" width="100%" alt="Python: learning through REC. Ollama: local models. Git and GitHub: versioning. Linux: work environment. CSV, JSON, spreadsheets, Markdown, prompt testing and response comparison." /></p>
+
+<p><img src="profile-after-hours.png" width="100%" alt="After hours" /></p>
+
+<p><img src="profile-on-repeat.gif" width="100%" alt="Original nocturnal vinyl illustration with an animated equalizer. Mitski, Elliott Smith, Jeff Buckley." /></p>
+
+<p><img src="profile-after-copy.png" width="100%" alt="Mitski, Elliott Smith, Jeff Buckley. NANA, Wong Kar-wai, Fallen Angels." /></p>
+
+<p><img src="profile-contact.png" width="100%" alt="Connect" /></p>
+
+<p><img src="profile-contact-copy.png" width="100%" alt="Interested in AI evaluation, Portuguese language data and remote opportunities." /></p>
+
+<p><a href="https://www.linkedin.com/in/mariaheloysa-ai/"><img src="profile-linkedin.png" width="48%" alt="LinkedIn" /></a> <a href="mailto:mariaheloysa888@gmail.com"><img src="profile-email.png" width="48%" alt="Email" /></a></p>
+
+<p><img src="profile-doodle-divider.gif" width="100%" alt="Animated cat, hand-drawn star and strawberry." /></p>
+
+<details>
+<summary>Project notes & text version</summary>
+
+Maria Heloysa — LLM Evaluation · Data Annotation · Portuguese Language.
+English Language Teaching student at UFPB, Brazil. Hands-on work with Portuguese language quality, LLM response evaluation and local models with Ollama. Developing Python skills through REC.
+
+REC uses synthetic illustrative data. It validates fields, types, ranges, IDs and duplicates; measures exact agreement, agreement within one point, signed bias and mean absolute score difference; applies FAIL > HUMAN_REVIEW > PASS precedence while preserving trigger reasons; and exports evaluated responses, a deterministic review queue, CSV summaries, Markdown audits and charts.
+
+Python · Ollama · Git · GitHub · Linux · CSV · JSON · Markdown · spreadsheets.
+
+Music: Mitski, Elliott Smith, Jeff Buckley. NANA, Wong Kar-wai and Fallen Angels.
+
+[REC](https://github.com/lainbacground/rec) · [LinkedIn](https://www.linkedin.com/in/mariaheloysa-ai/) · [Email](mailto:mariaheloysa888@gmail.com)
+
+</details>
