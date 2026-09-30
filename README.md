@@ -1,3 +1,4 @@
+![Uploading banner-animated.gif…]()
 <p align="center"><img src="assets/banner-animated.gif" width="100%" alt="Maria Heloysa with Lain Iwakura — Language, evaluation and local AI" /></p>
 
 <p align="center"><sub><a href="assets/banner-v4.png">View static banner</a></sub></p>
