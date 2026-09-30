@@ -1,132 +1,17 @@
-![Uploading banner-animated.gif…]()
-<p align="center"><img src="assets/banner-animated.gif" width="100%" alt="Maria Heloysa with Lain Iwakura — Language, evaluation and local AI" /></p>
+[README.md](https://github.com/user-attachments/files/32835058/README.md)
+<img width="1200" height="400" alt="banner-animated" src="https://github.com/user-attachments/assets/73062340-d4e1-4bc1-844c-f8c2acc83a9d" />
+<img width="2172" height="724" alt="banner-v4" src="https://github.com/user-attachments/assets/4d879ab4-842c-46a4-8cd4-a5cee89bcb7c" />
+<img width="850" height="115" alt="footer-v3" src="https://github.com/user-attachments/assets/5580fe78-d7db-4bc5-8053-61a021b85b6b" />
+<img width="340" height="88" alt="email" src="https://github.com/user-attachments/assets/ae55f758-8b9e-434c-b372-a2267150f5e8" />
+<img width="340" height="88" alt="linkedin" src="https://github.com/user-attachments/assets/7a15c57f-3ce8-4b3f-a60b-440b773bb878" />
+<img width="850" height="100" alt="connect" src="https://github.com/user-attachments/assets/585d7733-c9cb-4661-b47f-5e9fc0d27cd4" />
+<img width="850" height="85" alt="offline-strip" src="https://github.com/user-attachments/assets/475213e3-7f20-4f5c-b4af-9026501be111" />
+<img width="850" height="100" alt="off-screen" src="https://github.com/user-attachments/assets/ec88f9dd-00d1-4d0f-b2a1-5994e4c3a0d0" />
+<img width="850" height="90" alt="data-badges" src="https://github.com/user-attachments/assets/bb703baa-3057-4962-8a47-d0c034053c41" />
+<img width="850" height="100" alt="toolkit" src="https://github.com/user-attachments/assets/8b62a343-16c0-4693-ac9e-8f3ca40f1e1e" />
+<img width="850" height="345" alt="rec-card" src="https://github.com/user-attachments/assets/41a9d8a3-aa1b-49b2-ad1c-aca11c0ead53" />
+<img width="850" height="100" alt="featured" src="https://github.com/user-attachments/assets/098b0e7d-018b-424a-8558-3fe298919f6f" />
+<img width="850" height="100" alt="focus" src="https://github.com/user-attachments/assets/f4396b32-fa5b-4d3c-9f38-f48b6dc841d6" />
+<img width="850" height="100" alt="identity" src="https://github.com/user-attachments/assets/2b02d652-dda3-4096-ab5c-c98db580058e" />
+<img width="850" height="90" alt="wired" src="https://github.com/user-attachments/assets/9c059cc6-1ddc-4f53-b3ad-6f3c57929e68" />
 
-<p align="center"><sub><a href="assets/banner-v4.png">View static banner</a></sub></p>
-
-<p align="center"><strong>LLM Evaluation · Data Annotation · Portuguese Language</strong></p>
-
-<p align="center"><img src="assets/wired.gif" width="100%" alt="Language meets AI. Human judgment matters. Exploring local LLMs." /></p>
-
-<p align="center"><a href="#identity">Identity</a> ⸱ <a href="#focus">Focus</a> ⸱ <a href="#featured-work">Featured work</a> ⸱ <a href="#toolkit">Toolkit</a> ⸱ <a href="#off-screen">Off screen</a> ⸱ <a href="#connect">Connect</a></p>
-
-<a name="identity"></a>
-<p><img src="assets/identity.png" width="100%" alt="01 — Identity" /></p>
-
-I'm **Maria Heloysa**, an English Language Teaching student at **UFPB**, Brazil.
-
-I’m drawn to the point where language meets AI: how responses are interpreted, where they fail, and how human review can make those decisions clearer. My hands-on work includes **LLM evaluation, Portuguese language quality, and local models with Ollama**.
-
-**Brazilian Portuguese:** native · **English:** professional use  
-**Currently learning:** Python and reproducible evaluation workflows
-
-<a name="focus"></a>
-<p><img src="assets/focus.png" width="100%" alt="02 — Focus" /></p>
-
-**Language**  
-Portuguese language data · translation and localization review · transcription quality
-
-**Evaluation**  
-Rubric-based response evaluation · error analysis · source verification · human review
-
-**Local AI**  
-Ollama workflows · prompt testing · response comparison
-
-<a name="featured-work"></a>
-<p><img src="assets/featured.png" width="100%" alt="03 — Featured work" /></p>
-
-<p><img src="assets/rec-card.png" width="100%" alt="REC: LLM Response Evaluation and Audit. Python portfolio project using synthetic illustrative data. Validation, explainable decisions and prioritized human review." /></p>
-
-**REC** is my Python portfolio project for auditing LLM responses. It checks evaluation records, preserves the reasons behind each decision, and helps prioritize human review.
-
-| Decision | Meaning |
-| :--- | :--- |
-| `PASS` | No configured failure or review trigger detected |
-| `HUMAN_REVIEW` | Uncertainty, severity, or score disagreement needs attention |
-| `FAIL` | A critical issue or confirmed safety/privacy failure detected |
-
-**Outputs:** evaluated records · review queues · CSV summaries · Markdown audits · charts  
-**Data:** synthetic and illustrative
-
-<details>
-<summary><strong>Open the technical notes ↗</strong></summary>
-
-- Validates fields, score ranges, identifiers, and duplicate IDs.
-- Measures exact agreement, agreement within one point, signed evaluator bias, and mean absolute score difference.
-- Applies decision precedence: `FAIL` → `HUMAN_REVIEW` → `PASS`.
-- Preserves all trigger reasons when a higher-priority decision wins.
-- Builds a deterministic queue so reviewers can inspect urgent records first.
-
-</details>
-
-<!-- Insert the verified REC repository link here. -->
-
-<a name="toolkit"></a>
-<p><img src="assets/toolkit.png" width="100%" alt="04 — Toolkit" /></p>
-
-<p align="center"><strong>Development & environment</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=python,linux,git,github&amp;theme=dark" width="240" alt="Python, Linux, Git and GitHub" /></p>
-
-<p align="center"><strong>Local AI & data</strong></p>
-<p align="center"><img src="assets/data-badges.png" width="100%" alt="Ollama · CSV · JSON · Spreadsheets" /></p>
-
-<a name="off-screen"></a>
-<p><img src="assets/off-screen.png" width="100%" alt="05 — Off screen" /></p>
-
-**Serial Experiments Lain**, NANA, and Wong Kar-wai’s night scenes. Music by Mitski, Elliott Smith, and Jeff Buckley.
-
-<p><img src="assets/offline-strip.png" width="100%" alt="Anime · Cinema · Music" /></p>
-
-<a name="connect"></a>
-<p><img src="assets/connect.png" width="100%" alt="06 — Connect" /></p>
-
-Interested in **AI evaluation, Portuguese language data, and remote opportunities**.
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mariaheloysa-ai/"><img src="assets/linkedin.png" width="170" alt="Connect on LinkedIn" /></a>
-<a href="mailto:mariaheloysa888@gmail.com"><img src="assets/email.png" width="170" alt="Send an email" /></a>
-</p>
-
-<p align="center"><img src="assets/footer-v3.png" width="100%" alt="lainbacground / language × human judgment × local AI" /></p>
-[Uploading README.md…]()
-
-# Hi, I'm Maria Heloysa 👋
-
-**AI Evaluation & LLM Quality | Portuguese Language Data | Python**
-
-I'm an English Language undergraduate at the Federal University of Paraíba (UFPB), combining language expertise with structured AI quality workflows. I work with LLM response evaluation, human review, source verification, bilingual research, and technical documentation.
-
-## What I focus on
-
-- LLM response evaluation and audit
-- Human-in-the-loop quality workflows
-- Prompt evaluation and instruction-following review
-- Portuguese language data and data annotation
-- Human-vs-AI agreement analysis
-- Reproducible reporting and documentation
-
-## Featured project: REC
-
-**REC (LLM Response Evaluation and Audit)** is a Python portfolio project for traceable evaluation of model responses.
-
-- Uses transparent `PASS`, `HUMAN_REVIEW`, and `FAIL` decisions
-- Includes a prioritized human-review queue
-- Measures agreement between human and AI judgments
-- Produces CSV and Markdown reports plus Matplotlib visualizations
-- Runs 80 automated tests through GitHub Actions
-- Includes a reproducible synthetic sample audit, portfolio README, and MIT license
-- Developed with VS Code on WSL 2 / Ubuntu using Git and GitHub
-
-## Skills
-
-`Python` `Git` `GitHub Actions` `Matplotlib` `LLM Evaluation` `Data Annotation` `Prompt Engineering` `Human-in-the-loop Review` `Data Quality` `Technical Documentation` `Source Verification` `Translation` `Localization`
-
-## Languages
-
-- Portuguese: Native
-- English: Professional
-
-## Currently interested in
-
-Remote opportunities and collaborations in **AI Evaluation, AI Quality, Prompt Engineering, Data Annotation, Portuguese Language Data, and LLM Evaluation**.
-
-[LinkedIn](https://www.linkedin.com/in/mariaheloysa-ai/)
